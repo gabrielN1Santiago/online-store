@@ -1,0 +1,55 @@
+body{
+    background-color: #3f2cd1;
+}
+
+
+.my-navbar {
+    background-color: #4664db;
+}
+
+.mainTitle{
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+.mainText {
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+
+header{
+    padding: 30px;
+    background-color: #4664db;
+}
+
+
+footer{
+    background-color: #4664db;
+    text-align: center;
+    margin-top: auto;
+}
+
+
+.mainImage{
+    width: 40%;
+}
+
+
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+
+@media (max-width: 900px){
+    .mainImage{
+        width: 80%;
+    }
+}
+
